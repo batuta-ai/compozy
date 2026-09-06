@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/batuta-ai/.github/main/brand/readme-header-compozy-dark.png">
-  <img src="https://raw.githubusercontent.com/batuta-ai/.github/main/brand/readme-header-compozy-light.png" width="100%" alt="batuta-ai / compozy — Extensão comunitária para CompozyOS. Community extension for CompozyOS.">
-</picture>
-
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/batuta-ai/.github/main/brand/readme-header-compozy-dark.png"><img src="https://raw.githubusercontent.com/batuta-ai/.github/main/brand/readme-header-compozy-light.png" width="100%" alt="batuta-ai / compozy — Extensão comunitária para CompozyOS. Community extension for CompozyOS."></picture>
 
 > 🇺🇸 [English version](README.md)
 
